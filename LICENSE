@@ -1,0 +1,11 @@
+GNU General Public License version 3 (GPLv3)
+
+This tree is Pavel Torgashov's FastColoredTextBox Compact Framework port.
+Source file headers state:
+
+  License: GNU General Public License version 3 (GPLv3)
+  Copyright (C) Pavel Torgashov, 2011.
+
+Upstream GPLv3 terms apply. This repository does not relicense the code as MIT
+and VaderConsulting does not claim authorship. See THIRD_PARTY_NOTICES.md
+and the license comments in FastColoredTextBox/*.cs.
