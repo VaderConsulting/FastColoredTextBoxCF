@@ -22,6 +22,10 @@ Working copy of Pavel Torgashov's FastColoredTextBox Compact Framework port (ass
 
 Open `FastColoredTextBoxVS2008.sln` in Visual Studio.
 
+## Requirements
+
+- Visual Studio 2008, .NET Framework 2.0
+
 ## Attribution and provenance
 
 - **Assembly company:** Pavel Torgashov
