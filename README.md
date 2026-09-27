@@ -28,6 +28,7 @@ Open `FastColoredTextBoxVS2008.sln` in Visual Studio.
 
 ## Attribution and provenance
 
+Working copy from my Historical Dev folder `FastColoredTextBoxCF`.
 - **Assembly company:** Pavel Torgashov
 - **Assembly copyright:** © Pavel Torgashov , 2011, pavel_torgashov@mail.ru.
 
