@@ -7,5 +7,5 @@ This tree is **Pavel Torgashov's FastColoredTextBox Compact Framework port**, no
 - **Copyright:** © Pavel Torgashov, 2011 (see `FastColoredTextBox/Properties/AssemblyInfo.cs` and source headers)
 - **License:** GNU General Public License version 3 (GPLv3), as recorded in `FastColoredTextBox/FastColoredTextBox.cs` and other source headers
 
-Do not treat this repository as Dave Robinson / VaderConsulting MIT-licensed original work.
+Do not treat this repository as Dave Robinson / Vader Consulting MIT-licensed original work.
 VaderConsulting/Dave Robinson did not author the third-party portions identified above.
